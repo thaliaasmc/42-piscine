@@ -4,15 +4,29 @@
   <img width="300" height="100" src="https://miro.medium.com/max/1400/1*eliFAe2EAr55Oj_FuqB_yw.png">
 </p>
 
-<h2 align="center"> </h2>
-<p>  A Piscina é o processo seletivo da 42, é um treinamento imersivo 100% presencial de 26 dias
-consecutivos. Nessa imersão, nós vivemos na prática o método de
-aprendizagem e a cultura da 42.
-<h2 align="left">Skills</h2>
-<p> Shell, C Language, Git </p**>
-<p> Durante essa imersão começamos por aprender Shell, conceitos básicos, comandos de terminal, etc. </p>
-<p> Já de cara aprendemos Git também, pois todos os projetos são enviados utilizando ele</p>
-<p> Todas as listas após a de Shell são projeto em C, assim como os Rushs </p>
+<h2 align="center">About 42</h2
+<p> 42 is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.</p>
+<h2 align="center">What's is the Piscine</h2>
+<p>  The Piscina is the 42 selection process, it is an immersive 26-day 100% face-to-face training
+consecutive. In this immersion, we live in practice the method of
+learning and the culture of 42.</p>
+<h2 align="center">Skills</h2>
+
+#### Git
+	All the projects are delivered using Git commands, so we have to learn how to use it.
+	How to create an SSH key, import repositories, push and pull the files and another commands.
+  
+#### Shell
+	The first two days of the bootcamp are dedicated to learning basic to intermediate
+	shell commands to seamlessly navigate through the terminal.
+  
+#### C Language
+	The primary language learned at the 42's Piscine is C: dealing with variables,
+	pointers, memory allocation, macros, as well as creating functions and programs,
+	including the use and creation of libraries and Makefiles.
+
+
+<h2 align="center">Projects</h2>
 The following table presents the basecamp's curriculum in chronological order in which it was completed by me.
 
 |#	|PROJECT			                    |LANGUAGE	|XP	    	|		
@@ -27,11 +41,7 @@ The following table presents the basecamp's curriculum in chronological order in
 |07 |[C04](./C_04_check)              |C        |  70%    |
 |08 |[C05](./C_05_check)              |C        |  80%    |
 |09 |[C06](./C_06_check)              |C        |  70%    |
-|10 |[Rush00]                         |C        |   0%    |
-|11 |[Rush01]                         |C        |   0%    |
-|12 |[Rush02]                         |C        |   0%    |
-|13 |[Exam00]                         |C        |  16%    |
-|14 |[Exam01]                         |C        |  16%    |
-|15 |[Exam02]                         |C        |  21%    |
-|16 |[Exam03]                         |C        |  60%    |
-##
+|10 |Exam00                           |C        |  16%    |
+|11 |Exam01                           |C        |  16%    |
+|12 |Exam02                           |C        |  21%    |
+|13 |Exam03                           |C        |  60%    |
