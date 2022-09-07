@@ -27,7 +27,7 @@ learning and the culture of 42.</p>
 
 
 <h2 align="center">Projects</h2>
-The following table presents the basecamp's curriculum in chronological order in which it was completed by me.
+The following table presents the curriculum in chronological order by subject.
 
 |#	|PROJECT			                    |LANGUAGE	|XP	    	|		
 |:-:|:--				                      |:-:      |--:		  |
