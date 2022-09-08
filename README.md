@@ -27,21 +27,5 @@ learning and the culture of 42.</p>
 
 
 <h2 align="center">Projects</h2>
-The following table presents the curriculum in chronological order by subject.
-
-|#	|PROJECT			                    |LANGUAGE	|XP	    	|		
-|:-:|:--				                      |:-:      |--:		  |
-|00	|Eu aceito			                  |-		    |-  		  |
-|01 |Shell                            |Shell    | 100%    |
-|02 |Shell 02                         |Shell    | 100%    |
-|03 |[C00](./C_00_check)              |C        |  85%    |
-|04 |[C01](./C_01_check)              |C        | 100%    |
-|05 |[C02](./C_02_check)              |C        |  75%    |
-|06 |[C03](./C_03_check)              |C        |  75%    |
-|07 |[C04](./C_04_check)              |C        |  70%    |
-|08 |[C05](./C_05_check)              |C        |  80%    |
-|09 |[C06](./C_06_check)              |C        |  70%    |
-|10 |Exam00                           |C        |  16%    |
-|11 |Exam01                           |C        |  16%    |
-|12 |Exam02                           |C        |  21%    |
-|13 |Exam03                           |C        |  60%    |
+<p> All the projects that I've done are in this repository.</p>
+<p> All of then are with comments about what it does. </p>
