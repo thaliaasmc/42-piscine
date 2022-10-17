@@ -1,5 +1,3 @@
-<h1 align="center"> Piscine</h1>
-
 <p align="center">
   <img width="300" height="100" src="https://miro.medium.com/max/1400/1*eliFAe2EAr55Oj_FuqB_yw.png">
 </p>
