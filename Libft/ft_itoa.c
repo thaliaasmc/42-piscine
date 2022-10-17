@@ -6,7 +6,7 @@
 /*   By: tsampaio <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/25 15:18:39 by tsampaio          #+#    #+#             */
-/*   Updated: 2022/10/12 17:29:23 by tsampaio         ###   ########.fr       */
+/*   Updated: 2022/10/17 20:53:28 by tsampaio         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,10 +16,10 @@ static void	*str_complete(char *str, int ten, long int cpy_n, int i)
 {
 	while (ten >= 1)
 	{
-	str[i] = '0' + (cpy_n / ten);
-	cpy_n = cpy_n - (cpy_n / ten) * ten;
-	ten = ten / 10;
-	i++;
+		str[i] = '0' + (cpy_n / ten);
+		cpy_n = cpy_n - (cpy_n / ten) * ten;
+		ten = ten / 10;
+		i++;
 	}
 	str[i] = '\0';
 	return (str);
