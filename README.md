@@ -9,8 +9,6 @@
 <p1> First step you need to test your cognitive skills with online games.</p>
 <h3>Introduction Meeting</h3>
 <p1> An introduction to 42 and a visit to the facility to learn more about the training course.</p>
-<h3>Introduction Meeting</h3>
-<p1> An introduction to 42 and a visit to the facility to learn more about the training course.</p>
 <h3>The Piscine</h3>
 <p1> Piscine is French for “swimming pool.” You will spend one month in immersion getting used to our methods to help you find out if 42 really is made for you.</p>
 <h3>Starting School</h3>
