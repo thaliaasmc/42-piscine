@@ -15,5 +15,5 @@
 <p1> After you pass the pool, you can prepare your towel to board the Ship.</p>
 <h2 align="center">My Projects</h2>
 <a href ="https://github.com/thaliaasmc/42-school/tree/main/Libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="libft"/>
-<a href ="https://github.com/thaliaasmc/42-school/tree/main/Get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get_Next_Line"/>
+<a href ="https://github.com/thaliaasmc/42-school/tree/main/Get_Next_Line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="Get_Next_Line"/>
 </a>
