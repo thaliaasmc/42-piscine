@@ -23,7 +23,7 @@ $(NAME): $(OBJS)
 	ar -rcs $(NAME) $(OBJS)
 
 .o: .c
-	gcc $(CFLAGS) -c $< -o $@
+	clang $(CFLAGS) -c $< -o $@
 
 clean:
 	$(RM) $(OBJS)

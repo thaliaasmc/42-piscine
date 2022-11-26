@@ -2,27 +2,25 @@
 
 int	ft_putnbr(int n)
 {
-	int	sum;
 	int	num;
 
 	num = 0;	
-	sum = 0;
 	if (n < 0)
 	{
-		num = ft_putchar('-');
+		num += ft_putchar('-');
 		n *= -1;
 		if (n == -2147483648)
 		{
-			n--;
-			sum = 1;
+			num += ft_putchar('2');
+			n = 147483648;
 		}
 	}
 	if (n < 10)
-		num = ft_putchar(n + '0' + sum);
+		num += ft_putchar(n + '0');
 	else
 	{
-		num = ft_putnbr(n /10);
-		num = ft_putnbr(n % 10 + sum);
+		num += ft_putnbr(n /10);
+		num += ft_putnbr(n % 10);
 
 	}
 	return (num);
