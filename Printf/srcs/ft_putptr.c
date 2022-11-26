@@ -1,9 +1,21 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_putptr.c                                        :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: tsampaio <tsampaio@student.42sp.org.br>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/11/25 22:38:02 by tsampaio          #+#    #+#             */
+/*   Updated: 2022/11/25 22:38:06 by tsampaio         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "../include/ft_printf.h"
 
 int	ft_putptr(unsigned long ptr)
 {
 	char	*base_hexa;
-	int	i;
+	int		i;
 
 	i = 0;
 	base_hexa = "0123456789abcdef";
